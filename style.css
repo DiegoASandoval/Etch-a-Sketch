@@ -1,0 +1,28 @@
+.square {
+    border: 1px solid black;
+    background-color: white;
+  }
+  #gridContainer {
+    display:grid;
+    width: 650px;
+    height: 650px;
+    margin: auto;
+  }
+  
+  .hover{
+      background-color: black;
+  }
+  html{
+    background: url(./Images/sketch-e.jpg);
+    background-size: cover;
+}
+#menu{
+  text-align: center;
+}
+.title{
+  font-family: 'Gill Sans', sans-serif;
+  color:  white;
+  padding-left: 10px;
+  font-size: 48.5px;
+  margin-top: 0;
+}
